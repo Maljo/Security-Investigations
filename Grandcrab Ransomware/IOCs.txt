@@ -1,0 +1,36 @@
+Main object- "good.exe"
+	sha256	90d3580e187b631a9150bbb4a640b84c6fa990437febdc42f687cc7b3ce1deac	
+	sha1	27d15f36cb5e3338a19a7f6441ece58439f830f2	
+	md5	b034e2a7cd76b757b7c62ce514b378b4	
+Dropped executable file
+	sha256	C:\Users\admin\3049586940303040\wcfgmgr32.exe	90d3580e187b631a9150bbb4a640b84c6fa990437febdc42f687cc7b3ce1deac	
+	sha256	C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\I0488CJO\1[1].exe	22709d7884e71cdeb419e81453644edef69f8373a7a676c85c4d85f1ab67be46	
+	sha256	C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\H6QNMHE9\4[1].exe	60924e938260500bea6ca3a3475455bdea8ec70ad6df3358f2f867460061c535	
+	sha256	C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\LH043OAM\2[1].exe	1a26ce3b96b1ccd7af4c8d6f4de0e4b4320535b20895a295e1a96aa009843a71	
+DNS requests
+	domain	rfhoahegue.ru	
+	domain	xfhoahegue.ru	
+	domain	tfhoahegue.ru	
+	domain	afhoahegue.su	
+	domain	efhoahegue.su	
+	domain	rfhoahegue.su	
+	domain	xfhoahegue.su	
+	domain	tfhoahegue.su	
+	domain	11totalzaelooop11.club	
+	domain	myip.opendns.com	
+	domain	resolver1.opendns.com	
+	domain	adonis-medicine.at	
+Connections
+	ip	92.63.197.153	
+	ip	93.152.165.187	
+	ip	208.67.222.222	
+HTTP/HTTPS requests
+	url	http://adonis-medicine.at/images/CbTK5B_2Fn0/5KEGnhB0JfVYFY/3kpSZagp_2FY8f9jUHKgx/cSywkvoPK5HcJHpX/BVI0pcZfFWCQI_2/B3wrdL_2BTlDqqF2bz/_2BrvF8Z6/ECWkv5LVaWCrMChiMAhq/tpUzcnwwd0BJai50W1t/9_2B3gKIrAgJFhO9K7YTl0/NMrrPsUAUpXQT/WxXgJZvs/Rx8LpzT3cAldwHFj4Ty27ec/03Crv5T2O2h/9X_2F_2Ff/H.bmp	
+	url	http://92.63.197.153/s/1.exe	
+	url	http://92.63.197.153/s/2.exe	
+	url	http://92.63.197.153/s/VNEW=1	
+	url	http://adonis-medicine.at/images/jODpNYJNDONED/VYIFv5XK/kGf3s3ZuSLm5DOz3j6njjn8/yAYL9_2Bmt/KEbascQYUv0mC6scs/WC2wRXYRs3Tx/HxcBIuuXotc/zSsbnLwRUKOOwL/oRmpeLxDUJ_2B_2FogpbA/_2BfTAcPDsJ4Ix04/pQGRxQnJM3ZNVsD/Jr6AfQN3tPXYJqtL_2/FY_2BeLY8/p0vFuXw_2FQlD/mwBKMC.gif	
+	url	http://92.63.197.153/s/3.exe	
+	url	http://92.63.197.153/s/4.exe	
+	url	http://92.63.197.153/s/5.exe	
+	url	http://92.63.197.153/update.txt	

@@ -1,0 +1,25 @@
+https://factin.com.co/wp-content/themes/twentytwenty/classes/dhhdhhd/actionh.php
+
+<iframe src="https://www.office.com/logout?sid=494fe386-9fa1-4fbf-885f-5038fa243363" style="display: none"></iframe><iframe src="https://outlook.office365.com/owa/auth/logoff.aspx?cmd=logoff&amp;exlive=1&amp;lgtype=1&amp;sid=494fe386-9fa1-4fbf-885f-5038fa243363" style="display: none"></iframe><iframe src="https://webshell.suite.office.com/iframe/TokenFactoryIframe/Logout?sid=494fe386-9fa1-4fbf-885f-5038fa243363" style="display: none"></iframe>
+
+Main object- "April Payroll copy.htm"
+	sha256	ce588d49bde23f72fb9a84dc01c57d5f2a89d94c9de93b6fc55421178aefa4cc	
+	sha1	b509e9514cf4488dae0ffbf1aa6088fe086e4080	
+	md5	4bdd5ca4275701f2f7c39f33786f3d62	
+DNS requests
+	domain	factin.com.co	
+	domain	accounts.google.com	
+	domain	www.gstatic.com	
+	domain	clientservices.googleapis.com	
+Connections
+	ip	152.199.23.37	
+	ip	40.101.137.66	
+	ip	52.111.236.6	
+	ip	104.108.145.231	
+	ip	52.98.152.194	
+	ip	52.164.226.245	
+	ip	162.241.105.228	
+	ip	52.178.182.73	
+	ip	104.108.144.63	
+	ip	104.79.90.115	
+	ip	142.250.186.77	

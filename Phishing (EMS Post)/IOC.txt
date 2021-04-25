@@ -1,0 +1,23 @@
+Main object- "EMS copy.html"
+	md5	61a0b1d51d8a92b7a9db4b957abef7c0	
+	sha1	25921ede02aa646cb0c00117939d5d5ce1d3830e	
+	sha256	37124e1c97acc961d65f967a3507fc7911c9ae7dc5e4024158b685939b2c8545	
+DNS requests
+	domain	logo-load.com	
+	domain	www.ems.post	
+	domain	r20swj13mr.microsoft.com	
+	domain	www.googletagmanager.com	
+	domain	eservisac.com.pe	
+	domain	fonts.gstatic.com	
+Connections
+	ip	185.5.52.35	
+	ip	217.26.54.96	
+	ip	192.35.177.64	
+	ip	104.21.21.23	
+	ip	142.250.185.168	
+	ip	67.26.81.254	
+	ip	88.221.62.148	
+	ip	104.18.10.39	
+	ip	104.18.11.39	
+HTTP/HTTPS requests
+	url	http://logo-load.com/uploads/posts/2016-08/ems-logo.png	

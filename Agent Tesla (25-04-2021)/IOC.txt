@@ -1,0 +1,74 @@
+Main object- "Archive.zip"
+	sha256	623dff728f335fb419c2242414a8edb7c649aa43e814889f2608b32cb87229bf	
+	sha1	2af37fe8173ed52a92730a7355c4751bac0fb10e	
+	md5	18e0a3c546fb1656f7d86df164702381	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\AWB\AWB..exe	020e840f042ef0430c9a79ad3038b2772acb2bb0ab6c87ae71b53fa056863c7d	
+	sha256	C:\Users\admin\Downloads\Receipt of Delivery\Receipt of Delivery.exe	ea3cd23978973cb7700c724fb6f456addcf6909fb64fcefd7bc52edaae209d5f	
+DNS requests
+	domain	mail.lallyautomobiles.net	
+	domain	checkip.dyndns.org	
+Connections
+	ip	162.241.85.194	
+	ip	216.146.43.71	
+	ip	104.21.19.200	
+HTTP/HTTPS requests
+	url	http://checkip.dyndns.org/	
+
+
+___________AWB..exe_______________
+ipDst: 162.241.85.194
+ipSrc: 192.168.100.107
+portDst: 587
+portSrc: 52162
+process: C:\Users\admin\Downloads\AWB\AWB..exe
+
+
+created: NONE
+device: DISK_FILE_SYSTEM
+name: C:\Users\admin\AppData\Roaming\Mozilla\Firefox\Profiles\ccduiye8.default\key4.db
+object: FILE
+operation: READ
+
+access: FILE_READ_ATTRIBUTES
+created: SUPERSEDED
+device: DISK_FILE_SYSTEM
+name: C:\Users\admin\AppData\Local\7Star\7Star\User Data
+object: UNKNOWN TYPE
+operation: CREATE
+
+key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+name: kprUEGC
+operation: write
+typeValue: REG_SZ
+value: C:\Users\admin\AppData\Roaming\kprUEGC\kprUEGC.exe
+
+image: C:\Users\admin\Downloads\AWB\AWB..exe
+
+
+___________Contact Form'.exe____________
+ipDst: 162.241.85.194
+ipSrc: 192.168.100.107
+portDst: 587
+portSrc: 52448
+process: C:\Users\admin\Downloads\Contact Form'\Contact Form'.exe
+
+
+created: NONE
+device: DISK_FILE_SYSTEM
+name: C:\Users\admin\AppData\Roaming\Mozilla\Firefox\Profiles\ccduiye8.default\key4.db
+object: FILE
+operation: READ
+
+access: READ_CONTROL, SYNCHRONIZE, FILE_READ_DATA, FILE_READ_EA, FILE_READ_ATTRIBUTES
+created: SUPERSEDED
+device: DISK_FILE_SYSTEM
+name: C:\Users\admin\AppData\Roaming\8pecxstudios\Cyberfox\profiles.ini
+object: FILE
+operation: CREATE
+
+key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+name: kprUEGC
+operation: write
+typeValue: REG_SZ
+value: C:\Users\admin\AppData\Roaming\kprUEGC\kprUEGC.exe

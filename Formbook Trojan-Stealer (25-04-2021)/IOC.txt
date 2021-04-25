@@ -1,0 +1,25 @@
+Formbook
+
+Main object- "INV+PACKING LIST.gz"
+	sha256	e48f98656c4a21311cb99be0dc4066da0ff01bcce271339b60233945b7c8bb09	
+	sha1	6fa4605bbb63e80f4d6b62c27eb9a1ec441b7e88	
+	md5	39e343d80ab4d1e666174259ddace5cd	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\INV+PACKING LIST.exe	1416666c5e810ca861f2957356678266e742812f3dc29a8361e588af59b8478d	
+DNS requests
+	domain	www.sapirdavid.com	
+	domain	www.slingshotsmd.com	
+	domain	www.saveyourgrandchildren.com	
+	domain	www.xn--ekremimamolu-myb.com	
+	domain	www.consultinggroupwv.com	
+	domain	www.intelligentdesigncarpentry.com	
+	domain	www.whmznx.club	
+	domain	www.giapankhang.website	
+	domain	www.xianqianbao99.com	
+	domain	www.kn-security.com	
+	domain	www.mailinno.com	
+	domain	www.nocionlinguistica.xyz	
+	domain	www.shiftingbaba.com	
+	domain	www.handicapvansnews.info	
+	domain	www.influenciadoradesucesso.com	
+	domain	www.nelivo.com	

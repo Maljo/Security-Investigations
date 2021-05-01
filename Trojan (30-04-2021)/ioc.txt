@@ -1,0 +1,13 @@
+Main object- "R587010077110031772.rar"
+	sha256	058d61b071d717b126f3515d6289c127d842aae15e812a36689e24d164928b90	
+	sha1	e87f212c83f1b8dd70824fcce01578eb1e8315ac	
+	md5	3add61e8603750817ce7fa7ad6195cfb	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\R587010077110031772.exe	c47a96762c17cb59a6efef4e1c6b84b64fc2665a81780c6b70e047214342ded3	
+DNS requests
+	domain	checkip.dyndns.org	
+Connections
+	ip	162.88.193.70	
+	ip	172.67.188.154	
+HTTP/HTTPS requests
+	url	http://checkip.dyndns.org/	

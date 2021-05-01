@@ -1,0 +1,29 @@
+Email:
+Time:"April 30, 2021, 08:56:30 AM"
+Click attachment to listen to Voice Message
+
+File: [vmail_360.207.9280_20210429.html]
+
+
+File- "vmail_360.207.9280_20210429.html"
+	sha256	4434f5640b8eae3a5311dc693edbe92d04efe14fc2b4c64ba8f0b5f600a1e11b	
+	sha1	9a566c9b6138e880c2e5204cfc350d71bcf9b985	
+	md5	7ee026202810fd4020ba9bfc5c545dee	
+DNS requests
+	domain	yo-ga.us	
+	domain	accounts.google.com	
+	domain	clientservices.googleapis.com	
+	domain	www.gstatic.com	
+	domain	www.google.com	
+	domain	clients2.googleusercontent.com	
+	domain	cdnjs.cloudflare.com	
+	domain	educationnumerique.ch	
+	domain	fonts.gstatic.com	
+Connections
+	ip	142.250.184.237	
+	ip	52.178.182.73	
+	ip	23.254.211.157	
+	ip	104.18.10.207	
+	ip	13.107.246.61	
+	ip	104.16.18.94	
+	ip	83.166.138.18	

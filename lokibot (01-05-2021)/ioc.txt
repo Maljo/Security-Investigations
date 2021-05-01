@@ -1,0 +1,23 @@
+process: C:\Users\admin\Downloads\Purchase Inquiry_pdf.exe
+Dst: 173.208.204.37
+Src: 192.168.100.28
+DstP: 80
+SrcP: 52029
+
+
+filename: C:\Users\admin\AppData\Roaming\F3F363\3C28B3.exe
+md5: af49acf4331dad8e82c4cfe6b48c24aa
+sha1: c5e516c1d54bc6993d6a9cb770a8dbb0043f8807
+sha256: fdf7c57df99d2b51f42db3cb2df58439871ab216658b9e4ba4285e495d13fc89
+
+
+Main FILE- "Purchase Inquiry_pdf.gz"
+	sha256	ef12e1dd6c4e9f7764aeb3f1029fd492c60d7d0f444a50662546eb05c8acce63	
+	sha1	c042f9b90d045bc56259b0a094fd6506b99b0179	
+	md5	503cbe27287fd05c5c0cea84aa3800bb	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\Purchase Inquiry_pdf.exe	fdf7c57df99d2b51f42db3cb2df58439871ab216658b9e4ba4285e495d13fc89	
+Connections
+	ip	173.208.204.37	
+HTTP/HTTPS requests
+	url	http://173.208.204.37/k.php/OAWlc954mCFKO	

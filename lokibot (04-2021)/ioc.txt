@@ -1,0 +1,28 @@
+"C:\Windows\System32\schtasks.exe" /Create /TN "Updates\HAtZNxraUJFy" /XML "C:\Users\admin\AppData\Local\Temp\tmp7BF0.tmp"
+
+Dst: 103.94.135.216
+Src: 192.168.100.20
+DstP: 80
+SrcP: 56383
+process: C:\Users\admin\Downloads\wKTkJMLpe3GCjOS.exe
+
+
+filename dropped: C:\Users\admin\AppData\Roaming\F3F363\3C28B3.exe
+md5: 4c7ccf829c4cd62ba186ed296c067746
+sha1: 45d11358d08feeb145a4a342c3aed528351b5bce
+sha256: b9eec914414ea803d996e50fbd77b85b59925d292e4e5a4018685ef2f36ff87c
+
+
+Main file - "invoice#P610.gz"
+	sha256	7a4af7aee13fdf8c949a6d6b2be216a0e9c0b718d4205c2409bb63ce9a009254	
+	sha1	7fd58ca7109d9ff88acb75a1d7f10c2886109376	
+	md5	5f2438ae3b2ee7ae95410cb162e1c3bd	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\wKTkJMLpe3GCjOS.exe	b9eec914414ea803d996e50fbd77b85b59925d292e4e5a4018685ef2f36ff87c	
+DNS requests
+	domain	chem.buet.ac.bd	
+Connections
+	ip	103.94.135.216	
+	ip	192.168.100.20	
+HTTP/HTTPS requests
+	url	http://chem.buet.ac.bd/staff-list/inc/2w/Panel/fre.php	

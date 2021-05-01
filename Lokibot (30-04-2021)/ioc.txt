@@ -1,0 +1,34 @@
+
+process: 3E2wsDtaju4d5L4.exe (id: 3640)
+cmdline: "C:\Windows\System32\schtasks.exe" /Create /TN "Updates\CotpXekv" /XML "C:\Users\admin\AppData\Local\Temp\tmp4FB1.tmp"
+image: C:\Windows\SysWOW64\schtasks.exe
+
+drops file:
+filename: C:\Users\admin\AppData\Roaming\CotpXekv.exe
+md5: 35b0fe6354085f47a89da6944fbf94e6
+sha1: 8ab3ecdad4f2b401a28047186beef5f09c71248c
+sha256: 60a43722e451deb5669fd6dffd40f6e8f7c92c10a709ab61ee375dfbeecb9dff
+
+"C:\Windows\System32\schtasks.exe" /Create /TN "Updates\CotpXekv" /XML "C:\Users\admin\AppData\Local\Temp\tmp4FB1.tmp"
+
+
+Dst: 103.94.135.216
+Src: 192.168.100.241
+DstP: 80
+SrcP: 50699
+process: C:\Users\admin\Downloads\3E2wsDtaju4d5L4.exe
+
+
+
+File  "Priority payment.gz"
+	sha256	6f14b877d069c221904c79a90dd14de183be1432669ecaf7f90c166b559d8221	
+	sha1	436c7cf291976ccec25e13bb361c7d4138dea4c5	
+	md5	1237ac7c3fe779a96a8b463d7e1604a6	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\3E2wsDtaju4d5L4.exe	60a43722e451deb5669fd6dffd40f6e8f7c92c10a709ab61ee375dfbeecb9dff	
+DNS requests
+	domain	chem.buet.ac.bd	
+Connections
+	ip	103.94.135.216	
+HTTP/HTTPS requests
+	url	http://chem.buet.ac.bd/staff-list/inc/2w/Panel/fre.php	

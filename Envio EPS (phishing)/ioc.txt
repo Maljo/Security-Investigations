@@ -1,0 +1,12 @@
+"C:\Users\admin\Downloads\Envio EPS - Transferência Bancária.exe"
+
+cmdline: "C:\Windows\System32\schtasks.exe" /Create /TN "Updates\emZeKJ" /XML "C:\Users\admin\AppData\Local\Temp\tmpA43B.tmp"
+image: C:\Windows\SysWOW64\schtasks.exe
+
+file dropped: C:\Users\admin\AppData\Roaming\emZeKJ.exe
+md5: 2fac00cc625e866c05f069848e34c489
+sha1: 869a1df8547ac0a20271444a9e3ab8c91169bbfe
+sha256: 21c8094affb8e6f3489b0610943f5223f0f33b5a19b9a06de7f16ae111e6e897
+
+
+

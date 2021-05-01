@@ -1,0 +1,59 @@
+
+.zip extracted > swift.exe executed > help.exe dropped into "C:\Windows\SysWOW64” > help.exe outbound HTTP GET & DNS traffic (domains below).
+
+swift.exe > drops ”C:\Program Files (x86)\E2dmtwf\fpd0dxbzbptlh.exe"
+
+fpd0dxbzbptlh.exe launched itself
+
+FIle: ”swift.zip"
+	sha256	0f3c5ee8be6068473c793b1e89de78b1925816fdf9b50c0c90c8811254098401	
+	sha1	f96f3faa1f5867b5d5f0188adb87031cc2acb548	
+	md5	ae075d0932b5b9a96187ea50add1162a	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\swift.exe	3f359e1a20563017c2f66a4e01136fbd73a9293ca1ce3df2dd880a94b9eee23e	
+DNS requests
+	domain	www.sarahseatter.com	
+	domain	sarahseatter.com	
+	domain	www.xjhtcaum.com	
+	domain	www.terrasroraima.com	
+	domain	www.pyperpay.com	
+	domain	www.italiancosmeticbeauty.com	
+	domain	www.easycremationserviceusa.com	
+	domain	www.naviorchidlife.com	
+	domain	www.pediatricfeedrates.com	
+	domain	www.jqjdgw.com	
+	domain	www.woodlanddentalcarefl.com	
+	domain	www.sukaa.tech	
+	domain	www.crezcayemprenda.com	
+	domain	www.hyrerecruiting.com	
+	domain	www.thedailyprocrastinator.com	
+	domain	www.designer-dropship.com	
+	domain	www.cunerier.com	
+Connections
+	ip	142.250.185.243	
+	ip	99.86.2.5	
+	ip	160.153.136.3	
+	ip	104.252.43.114	
+	ip	192.185.221.204	
+	ip	104.16.12.194	
+	ip	74.220.199.6	
+	ip	35.242.251.130	
+	ip	162.0.219.212	
+HTTP/HTTPS requests
+	url	http://www.sarahseatter.com/ued5/?CXypTL=I2MHcrnXuxRXi&qJBP-Vux=t3y+qZGO56oSwK9s8uFgZ/XLSxZu6eehnjZQDIRntc5i/eKZALnlj/RWln0=	
+	url	http://www.terrasroraima.com/ued5/?qJBP-Vux=aaqjtJgu5q+TNpsEK1iwoNSh3BC713G0J2HfM2SvPMn2V7Yymd2FYj6Sh20=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.italiancosmeticbeauty.com/ued5/?qJBP-Vux=RfCBDN/GYDZxfa93urc7r3tzSkRZ1A/gO4zRSfVxf3nLeI2LNjMfWfb0JOA=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.jqjdgw.com/ued5/?qJBP-Vux=GWjm3ZXQl9aq7lTuhVnO0HMOH877dghnqnSRF6+0l+YHw4Q8sMNeKLo4xew=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.naviorchidlife.com/ued5/?qJBP-Vux=T0zAJjrz+Kw1loqNq4NyPMBs/Zw+kbb+Xm6TS7aof6si687D+1aULT5oRCQ=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.woodlanddentalcarefl.com/ued5/?qJBP-Vux=KEXfEE+GdBLZrCl6/DYYvt+WnUQjiG+KCppQLrXWJQxmXGAfG0TcEyBQN40=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.hyrerecruiting.com/ued5/?qJBP-Vux=lEY7PfAimRl26wKxGN18PH9sRmup9QnAnIoFwoRmcu/EY8KITbERc35m4x4=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.designer-dropship.com/ued5/?qJBP-Vux=reQy7rGmCTjO9OzRvrZJP+tNFXUYuT5Y2b2Yh0yCFp083EXKvX/6PkDV6s8=&CXypTL=I2MHcrnXuxRXi	
+	url	http://www.cunerier.com/ued5/?CXypTL=I2MHcrnXuxRXi&qJBP-Vux=pv3FrtbKecZ+PAyh9ZofT0RQd9pWE1q4W2++d65vGqcHB8Xkbtv4m8pe+/o=	
+	url	http://www.designer-dropship.com/ued5/	
+	url	http://www.hyrerecruiting.com/ued5/	
+	url	http://www.woodlanddentalcarefl.com/ued5/	
+	url	http://www.jqjdgw.com/ued5/	
+	url	http://www.terrasroraima.com/ued5/	
+	url	http://www.cunerier.com/ued5/	
+	url	http://www.italiancosmeticbeauty.com/ued5/	
+	url	http://www.naviorchidlife.com/ued5/	

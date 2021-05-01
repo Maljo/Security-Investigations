@@ -1,0 +1,27 @@
+Main file- "elenco del nuovo ordine.zip"
+	sha256	7e54f3637746c1c27b963eaee852164e8487233bb4fa52355e6f35cb6274aa01	
+	sha1	74d8ffc918ceb16296d3cc8a2f573aeac31736ad	
+	md5	670a25d08ad0a4b868d9bb8881d754f9	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\elenco del nuovo ordine.exe	78ba1cb599b8e9e7e8a02497d3b3cbf29ff3e0cacd887fdebdb135940d50009d	
+DNS requests
+	domain	cdn.discordapp.com	
+	domain	www.rockerdwe.com	
+	domain	www.pofo.info	
+	domain	www.meccafon.com	
+	domain	www.joomlas123.info	
+	domain	www.divorcerefinance.guru	
+	domain	www.naehascloud.com	
+	domain	www.accident-law-yer.info	
+	domain	www.mindfulinthemadness.com	
+	domain	www.yoursafetraffictoupdates.review	
+	domain	www.pmbnc.info	
+	domain	www.duftkerzen.info	
+	domain	www.capricorn1967.com	
+	domain	www.yoghurtberry.com	
+	domain	www.hotsmail.today	
+	domain	www.stepgentertainment.com	
+	domain	www.chinapopfactory.com	
+Connections
+	ip	192.168.100.56	
+	ip	162.159.130.233	

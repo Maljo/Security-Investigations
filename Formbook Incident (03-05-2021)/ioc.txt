@@ -1,0 +1,25 @@
+Main File- "orden de compra.zip"
+	sha256	4d77725626786fac3c9d2775d3c56f96b9c1ac72b6afd92e356c98ec4cb0de3b	
+	sha1	4c7fa5ae6186a1206500391df8564d9c6d886711	
+	md5	f1136d50091bbb07d6791276f6be414c	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\orden de compra.exe	78ba1cb599b8e9e7e8a02497d3b3cbf29ff3e0cacd887fdebdb135940d50009d	
+DNS requests
+	domain	cdn.discordapp.com	
+	domain	www.ajikrentcarsurabaya.com	
+	domain	www.deloslifesciences.com	
+	domain	www.maximscrapbooking.com	
+	domain	www.wv0uoagz0yr.biz	
+	domain	www.stepgentertainment.com	
+	domain	www.589man.com	
+	domain	www.chinapopfactory.com	
+	domain	www.adokristal.com	
+	domain	www.incrediblefavorcoaching.com	
+	domain	www.joomlas123.info	
+	domain	www.rewsales.com	
+	domain	www.sunflowermoonstudio.com	
+	domain	www.meccafon.com	
+	domain	www.duftkerzen.info	
+	domain	www.yfjbupes.com	
+Connections
+	ip	162.159.129.233	

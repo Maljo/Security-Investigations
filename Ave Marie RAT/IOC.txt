@@ -1,0 +1,16 @@
+pDst: 192.168.100.56
+ipSrc: 157.55.136.23
+portDst: 51442
+portSrc: 5300
+process: C:\Users\admin\Downloads\BL_LSZ-LFSGOA21309008SZ TELEX RELEASE.PDF.exe
+
+"C:\Windows\System32\schtasks.exe" /Create /TN "Updates\cvQkhp" /XML "C:\Users\admin\AppData\Local\Temp\tmpAB00.tmp"
+
+Main file- "BL_LSZ-LFSGOA21309008SZTELEX RELEASE.7z"
+	sha256	551af3d6ba8c19f4b0231a88c647bd3edbc2097f38f9b41ba4b4ff1f35c0df2a	
+	sha1	ad46a7bc13e37367b777596ac7c4f9310f28400a	
+	md5	5ab3e1d8513ae56ed6628f1f27a75e46	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\BL_LSZ-LFSGOA21309008SZ	TELEX RELEASE.PDF.exe	0fc046ec104bbe1d0c224e415ab6440d2d724e3fde181e0f8198a807da686c00	
+Connections
+	ip	157.55.136.23	

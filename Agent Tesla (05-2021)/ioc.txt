@@ -1,0 +1,19 @@
+ipDst: 145.14.144.98
+ipSrc: 192.168.100.52
+portDst: 21
+portSrc: 52717
+process: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+
+cmdline: "C:\Windows\System32\schtasks.exe" /Create /TN "Updates\SInXeUURe" /XML "C:\Users\admin\AppData\Local\Temp\tmp3524.tmp"
+
+
+Main file- "Documents and Details.zip"
+	sha256	02a5884cef397633778033f09f83e3bc9d0775f5364180dda75590223e23e2b3	
+	sha1	d0566014198b355742827429e34079abcc554f7c	
+	md5	467a53bff8fa3643dc40c14243970add	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\Documents and Details.exe	3723248c9fbceddd1796cae0a987242d86c59316c07a549b078517c4c4493b8a	
+DNS requests
+	domain	files.000webhost.com	
+Connections
+	ip	145.14.144.98	

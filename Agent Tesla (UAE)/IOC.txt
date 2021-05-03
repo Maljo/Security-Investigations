@@ -1,0 +1,18 @@
+Main file- "Mashreq Bank Advice.zip"
+	sha256	730fa1ba13d05f7d69867e64f7249ed204bbc7c8a3cbf598f27ad801fea1f5a5	
+	sha1	9c4830f8311b3a1aeae13c87bd5d7947e23cfab9	
+	md5	c3c7965f668dd97667bf4d6ca6acefae	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\Quotation listings jtfk0066.exe	fd2b757443f90baab4014f27aa5e8337da93985a39636232f4d82b2af5dfc794	
+DNS requests
+	domain	ftp.vizzwebsolutions.com	
+Connections
+	ip	192.185.41.225	
+
+
+
+ipDst: 192.185.41.225
+ipSrc: 192.168.100.138
+portDst: 21
+portSrc: 51699
+process: C:\Users\admin\Downloads\Quotation listings jtfk0066.exe

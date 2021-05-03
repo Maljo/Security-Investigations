@@ -1,0 +1,25 @@
+
+ipDst: 95.217.90.181
+ipSrc: 192.168.100.166
+portDst: 587
+portSrc: 51531
+process: C:\Users\admin\Downloads\Payment_copy-05032021.exe
+
+"C:\Windows\System32\schtasks.exe" /Create /TN "Updates\EJjOYGnwViELB" /XML "C:\Users\admin\AppData\Local\Temp\tmpA98C.tmp"
+
+
+filename: C:\Users\admin\AppData\Roaming\EJjOYGnwViELB.exe
+md5: 4c5e6530d37dce5e9e0339f696443741
+sha1: d1a3ec8d4606394c6b19182741e234054388c2ec
+sha256: dbfaf1a07e1a9617f259791150ce02e262daab4501deb362e62cd7896299c034
+
+Main file- "Payment_copy-05032021.rar"
+	sha256	a513311b6f174779421f7fb39c14d2759952ef481ec4f37108cf250012bc19ac	
+	sha1	91b30d1b97606d53a9a044f9bd5af459ffbdd33c	
+	md5	8aab2c418f50dc2f6e9edd65ce99e2c6	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\Payment_copy-05032021.exe	dbfaf1a07e1a9617f259791150ce02e262daab4501deb362e62cd7896299c034	
+DNS requests
+	domain	mail.handetekstil.com	
+Connections
+	ip	95.217.90.181	

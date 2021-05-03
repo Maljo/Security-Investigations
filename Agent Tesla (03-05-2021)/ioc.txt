@@ -1,0 +1,30 @@
+pDst: 104.197.107.105
+ipSrc: 192.168.100.97
+portDst: 21
+portSrc: 52030
+process: C:\Users\admin\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\FTUKUX.exe
+
+
+Main File- "Payment Plan.xls"
+	sha256	27f2f5bbaccea5eaf2f69d13c9c2b0c5ff46962206b7f7ed747e4cf156776dc3	
+	sha1	65885e86627dcdb47419b0a36ab31490b04cebea	
+	md5	9c75c4a452ffd62ce5c4b387b66a1c10	
+Dropped executable file
+	sha256	C:\Users\admin\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\FTUKUX.exe	2552194d9833577096be9f7b297dd0bbd21475465e7bd6c5c3916edd281bd615	
+DNS requests
+	domain	empaqusecali.com	
+	domain	ftp.libreriaunoes.com	
+	domain	sriva.com.mx	
+	domain	ocsp.digicert.com	
+Connections
+	ip	13.107.42.23	
+	ip	3.227.195.104	
+	ip	52.114.77.34	
+	ip	104.197.107.105	
+	ip	192.185.129.69	
+	ip	20.190.160.73	
+	ip	104.109.93.180	
+	ip	2.17.123.163	
+	ip	104.109.84.117	
+HTTP/HTTPS requests
+	url	http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D	

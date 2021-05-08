@@ -1,0 +1,12 @@
+Main file- "Imports_BL document INV Tiki_pdf.zip"
+	sha256	e582edc6b2b6e7bff0b5b406fae94b8a7c6c376b627366247d889958a67e6b8e	
+	sha1	ed1cbc5aada0777b671745aa119c3515c624c90c	
+	md5	c3c64cbb03b67ab6d5a3c5c940f996c0	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\Imports_BL document INV Tiki_pdf.exe	b0db621ad6900070e3b0702ba1a8f76af06f4acc52e172c4cd50a11cc3d786ec	
+DNS requests
+	domain	tepevizyon.com.tr	
+Connections
+	ip	213.238.183.33	
+HTTP/HTTPS requests
+	url	http://tepevizyon.com.tr/xx/Panel/fre.php	

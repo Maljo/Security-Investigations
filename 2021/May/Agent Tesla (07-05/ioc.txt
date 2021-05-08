@@ -1,0 +1,10 @@
+Main File- "PO 105008.zip"
+	sha256	cfd2a46ed0fc43964cab3e8b75a49edb8409fe5e5c4be240d1f9aa1655a6b1eb	
+	sha1	e9b5fbed043c4baf447229c28dcef593e34c5344	
+	md5	87b8b0903721ab5ef3ed7d2db612e323	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\PO 105008.exe	cbab6b2c10e1469baa5e80c2d2dca9b7017338681c56854c327a221072714029	
+DNS requests
+	domain	mail.aquariushotel.in	
+Connections
+	ip	89.238.188.232	

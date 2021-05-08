@@ -1,0 +1,10 @@
+Main file- "payment_PDF.ace"
+	sha256	b9ffcca5ddbfb668e0e6c16bb7ffb776786279c49bc2a9765aff08efe915d0f9	
+	sha1	4f14b852778d32b5a52a73e44ec426ad8637fe34	
+	md5	8a79707bc08b4058b8e07d3e33f5648c	
+Dropped executable file
+	sha256	C:\Users\admin\Downloads\payment_PDF.exe	bf0654a7a1cfc9e9f65df982ec306192048938cff695f147d19de6ff2fa825e4	
+Connections
+	ip	173.208.204.37	
+HTTP/HTTPS requests
+	url	http://173.208.204.37/k.php/7MPTLmOD4nAsj	
